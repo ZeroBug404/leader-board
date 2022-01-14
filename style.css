@@ -1,0 +1,19 @@
+body{
+    background-color: #9F9F9F;
+}
+#main-top{
+    width: 70%;
+    height: 500px;
+    display: flex;
+    background-color: white;
+}
+.top-players{
+        /* display: flex;  */
+        display: grid;
+    
+}
+.top-players img{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
